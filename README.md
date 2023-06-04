@@ -1,2 +1,9 @@
 # Myntra-Marketing-Project
 As a student, I worked on a marketing project that required me to identify the primary reasons for customer churn for an E-commerce website (i.e., Myntra). 
+I devised an extensive marketing campaign with a primary focus on targeting the desired customer base. To ensure the accuracy and effectiveness of our approach, I leveraged exploratory data analysis (EDA) techniques to eliminate irrelevant data, handle null values, and eliminate outliers. This rigorous process helped to refine the dataset, reduce noise, and enhance the segmentation analysis.
+
+In addition to EDA, I employed machine learning (ML) modelling techniques to predict the likelihood of customer churn based on their purchasing patterns. By analyzing historical data, we could identify patterns and trends that indicated potential churn behavior. This enabled us to take proactive measures to retain customers and improve overall customer satisfaction.
+
+To facilitate better understanding and communication of the insights gained from the data, I utilized data visualization techniques. Visual representations, such as graphs, charts, and dashboards, allowed for easier interpretation and dissemination of complex information to stakeholders. This approach ensured that everyone involved in the marketing campaign could comprehend the findings and make data-driven decisions.
+
+By combining these methodologies, the marketing campaign was tailored specifically to target customers at risk of churn. This targeted approach aimed to minimize customer attrition and maximize customer retention by addressing their unique needs and preferences. Ultimately, the campaign's success was driven by the careful analysis of data, machine learning predictions, and effective data visualization to optimize customer engagement and satisfaction.
